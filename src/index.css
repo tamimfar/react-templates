@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root{
+  --bg-color:#D6E9F0;
+  --bg-color2:#B2DEED;
+  
+}
+
+.gredient{
+  background: linear-gradient(0deg, var(--bg-color), var(--bg-color2));
+}
