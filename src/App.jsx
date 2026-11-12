@@ -9,6 +9,7 @@ function App() {
           <span className="ml-2 border-2 border-gray-200 p-4 rounded-2xl "><Form  className='w-7 h-6'/></span>
       </h1>
       <h1>This is a vite template with tailwind</h1>
+      <h2>This is a vite template with tailwind</h2>
     </>
   )
 }
